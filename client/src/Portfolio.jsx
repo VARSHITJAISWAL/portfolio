@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import styles from "./portfolio.module.css";
+import styles from "./Portfolio.module.css";
 import emailjs from '@emailjs/browser';
 
 // ─── SVG ICONS ───────────────────────────────────────────────────────────────
